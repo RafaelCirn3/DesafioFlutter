@@ -74,9 +74,12 @@ lib/
 │   ├── mapa_widget.dart
 │   ├── card_confeitaria.dart
 │   └── form_input.dart
+├── database/
+|   ├── database.dart
 ├── services/
-│   ├── database_service.dart
 │   └── geocoding_service.dart
+|── tests/
+│   ├── geocoding_test.dart
 ├── main.dart
 ```
 
@@ -100,6 +103,14 @@ lib/
 
 ---
 
+### Executando os Testes
+
+- testando a funcionalidade de geocoding
+```bash
+flutter test lib/tests/geocoding_test.dart
+```
+
+--- 
 ## 👨‍💻 Desenvolvido por
 
 Rafael Cirne  
