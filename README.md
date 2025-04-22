@@ -42,7 +42,7 @@ Este é um aplicativo mobile desenvolvido em Flutter como parte de um desafio t�
 
 ```bash
 # Clone o repositório
-git clone https://github.com/rafaelcirn3/confeitapp.git
+git clone https://github.com/rafaelcirn3/DesafioFlutterConfeitApp.git
 cd confeitapp
 
 # Instale as dependências
